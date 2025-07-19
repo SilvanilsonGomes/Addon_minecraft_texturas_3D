@@ -1,0 +1,5 @@
+{
+    "minecraft:crafting_table":{
+        "minecraft:geometry":"geometry.crafting_table" 
+       } 
+}

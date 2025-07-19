@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "mine_3d",
+    "description": "textura3d_mine_tavares",
+    "uuid": "3d3f5d72-76a4-4f1a-8828-fba1bb928dc6",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c6fc8142-63a2-4b0a-a5cb-80d0b9a6b567",
+      "version": [1, 0, 0]
+    }
+  ]
+}
